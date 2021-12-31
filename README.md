@@ -119,6 +119,9 @@ Many thanks.
     <a href="https://github.com/dove-zp/cs4440.squashpol.data/releases">
       <img src="https://img.shields.io/github/downloads/dove-zp/cs4440.squashpol.data/total?style=flat-square" alt="downloads"/>
     </a>
+    <a href="https://github.com/dove-zp/cs4440.squashpol.data/graphs/contributors">
+      <img src="https://img.shields.io/github/contributors/dove-zp/cs4440.squashpol.data?style=flat-square" alt="contributors"/>
+    </a>
     <a href="https://github.com/dove-zp/cs4440.squashpol.data/watchers">
       <img src="https://img.shields.io/github/watchers/dove-zp/cs4440.squashpol.data?style=flat-square" alt="watchers"/>
     </a>
@@ -130,8 +133,6 @@ Many thanks.
     </a>
   </p>
 </p>
-
-<hr/>
 
 <p align="center">
   <a href="https://github.com/dove-zp">
