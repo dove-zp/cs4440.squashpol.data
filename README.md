@@ -29,10 +29,10 @@ interaction.
 ### Non-Labeled
 
 * [unsorted](https://github.com/dove-zp/cs4440.squashpol.data/tree/unsorted)
-  * Raw data with no labels, filtering, and setup applied 
+  * Raw data with no labels, filtering, and setup applied
 
 * [sorted](https://github.com/dove-zp/cs4440.squashpol.data/tree/sorted)
-  * 35 groups of flowers with no labels applied 
+  * 35 groups of flowers with no labels, filtering, and setup applied
 
 ### Provided
 
